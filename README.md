@@ -25,7 +25,6 @@ Um aplicativo leve, seguro e com interface gráfica moderna (Dark Mode) desenvol
 
 ## 📸 Interface do Aplicativo
 
-*(Adicione uma imagem do seu aplicativo aqui. Coloque a foto na pasta do projeto e mude o link abaixo)*
-> `![Interface do App](https://ibb.co/DfQWgx4W))`
+> `![Interface do App](https://im.ge/i/screenshot-90-QMO81YY)`
 
 ---

@@ -25,6 +25,6 @@ Um aplicativo leve, seguro e com interface gráfica moderna (Dark Mode) desenvol
 
 ## 📸 Interface do Aplicativo
 
-https://im.ge/i/screenshot-90-QMO81YY
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/zVZxHysx/Screenshot-90.png" alt="Screenshot 90" border="0"></a>
 
 ---

@@ -4,7 +4,7 @@
 ![Python](https://img.shields.io/badge/Python-3.x-yellow.svg)
 ![License](https://img.shields.io/badge/License-MIT-orange.svg)
 
-Um aplicativo leve, seguro e com interface gráfica moderna (Dark Mode) desenvolvido para limpar o cache do **FiveM** de forma seletiva. Resolve problemas de textura, falhas de conexão e travamentos em servidores de GTA V Roleplay com apenas um clique.
+Um aplicativo leve, seguro e com interface gráfica moderna desenvolvido para limpar o cache do **FiveM** de forma seletiva. Resolve problemas de textura, falhas de conexão e travamentos em servidores com apenas um clique.
 
 ---
 

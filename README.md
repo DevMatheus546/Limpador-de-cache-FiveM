@@ -25,6 +25,6 @@ Um aplicativo leve, seguro e com interface gráfica moderna (Dark Mode) desenvol
 
 ## 📸 Interface do Aplicativo
 
-> `![Interface do App](https://im.ge/i/screenshot-90-QMO81YY)`
+https://im.ge/i/screenshot-90-QMO81YY
 
 ---
